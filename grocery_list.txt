@@ -2,3 +2,7 @@
 2. milk
 3. bread
 4. chicken
+5. bacon
+6. wine
+7. cheese
+
